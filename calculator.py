@@ -13,7 +13,7 @@ def divide(a,b):
   except Exception as e:
     print(e)
 def power(a,b):
-  return a*b
+  return a***b
   
 def remainder(a,b):
   return a%b
